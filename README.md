@@ -5,7 +5,7 @@
 String
 
 * <<
-* capitalize
+* capitalize - DONE
 * center
 * chars
 * delete
@@ -17,7 +17,7 @@ String
 * empty?
 * length
 * include?
-* reverse
+* reverse - DONE
 * prepend
 * replace
 * size
@@ -88,3 +88,5 @@ Hash
 
 
 Enumerable module methods
+
+* inject - DONE
