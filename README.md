@@ -4,7 +4,7 @@
 
 String
 
-* <<
+* << - DONE
 * capitalize - DONE
 * center
 * chars
