@@ -1,6 +1,15 @@
-================================
-                        METHODS
-================================
+#My Methods
+_____________________
+
+Having enjoyed the weekend challenge in which I had to re-write the functionality of the [inject() method](https://github.com/emilysas/inject), I decided to have a go at working my way through as many ruby methods as I could.
+
+##Tools Used
+* Ruby
+* Rspec
+
+##Future intentions
+
+I would like to continue doing this, as not only is it really good fun but it helps me to become more familiar with the ruby methods and how they work.
 
 String
 
